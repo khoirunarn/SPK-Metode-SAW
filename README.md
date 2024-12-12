@@ -1,4 +1,4 @@
-# CodeIgniter 4 Application Starter
+# CodeIgniter 4 Application Starter SPK Siswa Berprestasi menggunakan Metode SAW
 
 ## What is CodeIgniter?
 
